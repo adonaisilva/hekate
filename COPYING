@@ -1,0 +1,19 @@
+    hékate - Human-machine interface by computer vision for programming 
+    and operation of a virtual anthropomorphic robot.
+
+    Copyright (C) 2012-2013  Edgar Adonai Silva Calderón
+
+This file is part of hékate.
+
+    hékate is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    hékate is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with hékate.  If not, see <http://www.gnu.org/licenses/>.

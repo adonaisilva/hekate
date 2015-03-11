@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<pub_info>
+	<title>hékate</title><author>Edgar Adonai Silva Calderón</author>
+	<email>esilvac87@gmail.com</email>
+	<website>https://github.com/xDMxosiris/hekate</website><copyright>Copyleft - All Wrongs Reserved</copyright>
+	<license>GPLv3</license>
+	<date>Tue Oct 16 12:01:23 2012</date>
+	<version>0.4.0</version>
+	<status>Prototype</status>
+	<comment>Human-machine interface by computer vision for programming and operation of a virtual anthropomorphic robot</comment>
+	</pub_info>

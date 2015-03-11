@@ -1,0 +1,7 @@
+python-opencv
+python-matplotlib
+python-numpy
+python-scipy
+python-opengl
+python-gtkglext1
+libgtkglext1
